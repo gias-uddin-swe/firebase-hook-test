@@ -1,0 +1,14 @@
+.header-items {
+  text-decoration: none;
+  color: #000000;
+  margin-top: 15px;
+  padding: 10px;
+  font-size: 22px;
+  list-style: none;
+  font-weight: 500;
+  cursor: pointer;
+}
+.menu-container {
+  background-color: rgb(179, 179, 179);
+  padding: 20px;
+}
